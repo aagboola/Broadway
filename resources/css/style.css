@@ -1,0 +1,56 @@
+body{
+  text-align: center;
+}
+h1{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+}
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+h3{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+h4,.btn-nav-2{
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: bold;
+}
+h2,h3,h4{
+  color: black;
+}
+
+#div01,#div03{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  color: white;
+}
+#div05{
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
+#copyright{
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+}
+
+#designedInNewYork{
+  color:white;
+}
+
+.div01_p{
+  font-family: Helvetica;
+  font-size: 18px;
+}
+a.btn-nav-2:link,a.btn-nav-2:visited,a.btn-nav-2:hover{
+  color: white;
+}
+a.btn-nav-1:link,a.btn-nav-1:visited,a.btn-nav-1:hover{
+  color: white;
+}
